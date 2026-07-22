@@ -20,5 +20,4 @@ Este projeto consiste em uma simulação de um carrinho de compras inspirado na 
 
 Imagem demonstrando a execução do projeto no terminal:
 
-![Carrinho Node.js rodando](<img width="658" height="233" alt="image" src="https://github.com/user-attachments/assets/84d88fc7-b1f3-4578-ad9e-8ad02dbc869b" />
-)
+![Carrinho Node.js rodando]("C:\Users\Amanda\OneDrive\Área de Trabalho\exemplo1.jpg"/>)
