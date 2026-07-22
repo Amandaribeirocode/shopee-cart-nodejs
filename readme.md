@@ -15,3 +15,10 @@ Este projeto consiste em uma simulação de um carrinho de compras inspirado na 
 - Diferença entre CommonJS e ES Modules (ESM)  
 - Modularização do código  
 - Separação de responsabilidades  
+
+## 📸 Exemplo de execução
+
+Imagem demonstrando a execução do projeto no terminal:
+
+![Carrinho Node.js rodando](<img width="658" height="233" alt="image" src="https://github.com/user-attachments/assets/84d88fc7-b1f3-4578-ad9e-8ad02dbc869b" />
+)
