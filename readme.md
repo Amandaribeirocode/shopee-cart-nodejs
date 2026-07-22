@@ -16,8 +16,3 @@ Este projeto consiste em uma simulação de um carrinho de compras inspirado na 
 - Modularização do código  
 - Separação de responsabilidades  
 
-## 📸 Exemplo de execução
-
-Imagem demonstrando a execução do projeto no terminal:
-
-![Carrinho Node.js rodando]("C:\Users\Amanda\OneDrive\Área de Trabalho\exemplo1.jpg"/>)
